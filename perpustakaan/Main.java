@@ -74,7 +74,7 @@ public class Main {
 
                 case 5:
                     // Keluar program
-                    System.out.println("Keluar dari program. Terima kasih!");
+                    System.out.println("Keluar dari program. Terima kasih sudah menggunakan program sederhana ini");
                     running = false; // Mengakhiri perulangan menu
                     break;
 
