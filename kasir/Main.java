@@ -81,7 +81,7 @@ public class Main {
 
                 case 5:
                     // Menu 5: Keluar Program
-                    System.out.println("Terima kasih, program kasir ditutup.");
+                    System.out.println("Terima kasih sudah menggunakan program kasir sederhana ini :D ");
                     berjalan = false; // Menghentikan perulangan menu
                     break;
 
